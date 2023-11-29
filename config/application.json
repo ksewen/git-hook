@@ -1,0 +1,9 @@
+{
+  "path": "/webhooks/gitlab/",
+  "secret": "",
+  "log" : {
+    "file": "git-hook.log",
+    "level": "INFO",
+    "mode": "rabbit"
+  }
+}
